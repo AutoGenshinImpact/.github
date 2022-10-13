@@ -1,12 +1,39 @@
-## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
+# GenshinAutomata 原神自动机
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+致力于打造对高练度玩家友好的不封号 自动 清体力 / 刷每日 脚本
+
+<br>
+
+## 我们的态度
+
+摆烂！
+只是一群命苦的大学生为爱发电而已，说不定哪天就提桶跑路了
+
+<br>
+
+## 现开发阶段
+
+finish:
+- 针对圣遗物副本：
+  - 使用特定队伍完成辰砂本（指从开始秘境到清除怪物，暂不能领取奖励
+
+- 自动寻找秘境
+- 脚本的前后端交互
+  - 设置要打的副本 和 次数
+  - 挂机自动执行脚本
+
+todo:
+- 秘境结束后领取奖励
+- 获取当前树脂数量
+- 将功能扩展到除圣遗物外的其它副本
+- 尝试做一些简单的每日任务
+  - 自动寻路
+  - 障碍、野怪自动识别并躲避
+  - 获取每日任务信息，完成条件等等
+- 按照使用者要求进行配队
+  - 角色识别
+- 自动配队
+  - 对角色技能、轴、要打的副本 进行最优化计算
+
