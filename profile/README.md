@@ -1,6 +1,6 @@
 ![head](profile/head.png)
 
-# GenshinAutomata 原神自动机
+# GenshinAutomaton 原神自动机
 
 致力于打造对高练度玩家友好的不封号 自动 清体力 / 刷每日 脚本
 
